@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <>
       <header>
-        <h1>Home</h1>
+        <h1>Hjem</h1>
       </header>
       <main>
         <article>
